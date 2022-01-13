@@ -1,2 +1,3 @@
 TEST file
 new string
+1
