@@ -1,3 +1,4 @@
 TEST file
 new string
 1
+12345
